@@ -11,4 +11,7 @@ The repository contains the following tasks for evaluation under my mentor, Prof
            *the head of a fictitious magazine before RECRUITING a new employee to check the originality in ideas and 
            not traditional un-plagiarized content by apps like spin bot etc.*
 
+3. Task3:- File has been uploaded as HTML. Notice how first time I encountered and overcame errors in JUPYTER 
+           notebook while exploring Brown, Webtech and Gutenberg Corpus
+
 ```
