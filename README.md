@@ -8,7 +8,7 @@ The repository contains the following tasks for evaluation under my mentor, Prof
            
 2. NLP_T2:- It was a beautiful website that not only indicated spelling and grammatical errors but also pointed out
            adverb count and use of CLICHÉ. Though it may not seem much to a novice linguist, it can be used by
-           *the head of a fictitious magazine before RECRUITING a new employee to check the originality in ideas and not traditional
-           un-plagiarized content by apps like spin bot etc.*
+           *the head of a fictitious magazine before RECRUITING a new employee to check the originality in ideas and 
+           not traditional un-plagiarized content by apps like spin bot etc.*
 
 ```
