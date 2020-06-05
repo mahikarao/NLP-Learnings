@@ -25,4 +25,10 @@ The repository contains the following tasks for evaluation under my mentor, Prof
 7. Task7:- If you go through this repository, PLEASE CHECK OUT THIS FILE: 
                                  Authors_writing_style_comparison_using_COSINE_SIMILARITY
            This has been my favourite task of all till now. Why? Because it is a proof that my fav. author is genuinely good : )
+           
+8. Task8:- We can observe that even gets confused by the artistic interpretations of English language and.. 
+           contemporary EXPRESSION OF JOY. Eg: "Yay", "Crazyyy" etc. :D, :P, : )
+           Note: At this point I feel the Models are talikng back to me.    
+           Serious Note: Ma'am I have made hand written submissions for this task in the class to you itself. 
+           Please take a look at them whenever possible. :)
 ```
