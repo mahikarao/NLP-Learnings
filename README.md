@@ -14,4 +14,5 @@ The repository contains the following tasks for evaluation under my mentor, Prof
 3. Task3:- File has been uploaded as HTML. Notice how first time I encountered and overcame errors in JUPYTER 
            notebook while exploring Brown, Webtech and Gutenberg Corpus
 
+4. Task4:- Parts of speech tagging. I began realizing how powerful NLTK was.
 ```
