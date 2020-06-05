@@ -18,4 +18,8 @@ The repository contains the following tasks for evaluation under my mentor, Prof
 
 5. Task5:- Explored Lexicon stopword for 2 language enlish and french. Also performed NLTK pipelining on my favourite
            actor Shah Rukh Khan : )
+           
+6. Task6:- If you go through this repository, PLEASE CHECK OUT THIS FILE: 
+                                 Authors_writing_style_comparison_using_COSINE_SIMILARITY
+           This has been my favourite task of all till now. Why? Because it is a proof that my fav. author is genuinely good : )
 ```
