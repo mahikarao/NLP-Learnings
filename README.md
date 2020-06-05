@@ -15,4 +15,7 @@ The repository contains the following tasks for evaluation under my mentor, Prof
            notebook while exploring Brown, Webtech and Gutenberg Corpus
 
 4. Task4:- Parts of speech tagging. I began realizing how powerful NLTK was.
+
+5. Task5:- Explored Lexicon stopword for 2 language enlish and french. Also performed NLTK pipelining on my favourite
+           actor Shah Rukh Khan : )
 ```
